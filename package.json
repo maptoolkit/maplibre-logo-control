@@ -1,6 +1,6 @@
 {
   "name": "@maptoolkit/maplibre-logo-control",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A MapLibre GL JS control plugin that adds a maptoolkit logo link to the map.",
   "repository": {
     "type": "git",
