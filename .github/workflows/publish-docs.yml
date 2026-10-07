@@ -11,11 +11,12 @@ jobs:
   publish-docs:
     uses: maptoolkit/.github/.github/workflows/publish-docs.yml@main
     with:
-      docs-path: docs/content/third-party-libraries/maplibre/maplibre-logo-control.md
+      docs-path: docs/content/plugins/maplibre-logo-control.md
       front-matter: |
         title: "Add the Maptoolkit Logo to MapLibre GL JS"
         linkTitle: "Logo Control"
         description: "Show the Maptoolkit logo on your MapLibre GL JS map with the Maptoolkit Logo Control plugin: install, usage, and placement."
+        aliases: [/third-party-libraries/maplibre/maplibre-logo-control/]
         weight: 40
         libraries: [maplibre]
         tags: [maplibre, controls, attribution]
