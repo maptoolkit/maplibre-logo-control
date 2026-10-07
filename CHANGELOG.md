@@ -1,5 +1,11 @@
 # @maptoolkit/maplibre-logo-control
 
+## 1.1.1
+
+### Patch Changes
+
+- 6bab3c3: Fix README badges linking to the style control package instead of the logo control
+
 ## 1.1.0
 
 ### Minor Changes
