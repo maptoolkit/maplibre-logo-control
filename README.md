@@ -1,7 +1,7 @@
 # maplibre-logo-control
 
 [![NPM](https://img.shields.io/npm/v/@maptoolkit/maplibre-logo-control?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837&color=555)](https://www.npmjs.com/package/@maptoolkit/maplibre-logo-control)
-[![License](https://img.shields.io/npm/l/@maptoolkit/maplibre-logo-control?style=for-the-badge)](https://github.com/maptoolkit/maplibre-logo-control/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/@maptoolkit/maplibre-logo-control?style=for-the-badge)](https://github.com/maptoolkit/maplibre-logo-control/blob/HEAD/LICENSE)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maptoolkit/maplibre-logo-control)
 
 A [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) control plugin that adds a maptoolkit logo link to the map.
@@ -71,4 +71,4 @@ to resolve the bare `maplibre-gl` specifier:
 
 ## License
 
-**maplibre-logo-control** is open-source under the [BSD 3-Clause License](LICENSE).
+**maplibre-logo-control** is open-source under the [BSD 3-Clause License](https://github.com/maptoolkit/maplibre-logo-control/blob/HEAD/LICENSE).
