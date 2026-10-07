@@ -33,6 +33,16 @@ By default the control is placed in the bottom-left corner; pass a position to `
 map.addControl(new LogoControl(), "bottom-right");
 ```
 
+### Options
+
+| Option    | Type             | Default | Description                                                                         |
+| --------- | ---------------- | ------- | ----------------------------------------------------------------------------------- |
+| `variant` | `"org" \| "com"` | `"org"` | Which Maptoolkit offering the logo links to (`maptoolkit.org` or `maptoolkit.com`). |
+
+```js
+map.addControl(new LogoControl({ variant: "com" }));
+```
+
 ### Without a bundler
 
 The package is ESM-only (no UMD/CJS build). Loading it straight from a CDN via
