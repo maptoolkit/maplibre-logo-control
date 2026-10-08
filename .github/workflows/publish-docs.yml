@@ -16,6 +16,7 @@ jobs:
         title: "Add the Maptoolkit Logo to MapLibre GL JS"
         linkTitle: "Logo Control"
         description: "Show the Maptoolkit logo on your MapLibre GL JS map with the Maptoolkit Logo Control plugin: install, usage, and placement."
+        subtitle: "Show the Maptoolkit logo on your MapLibre GL JS map."
         aliases: [/third-party-libraries/maplibre/maplibre-logo-control/]
         weight: 40
         libraries: [maplibre]
